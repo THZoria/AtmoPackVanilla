@@ -44,6 +44,8 @@ Likewise, if you have any questions, don't hesitate to come to the [SigHya disco
 
 ![generatepack](https://github.com/user-attachments/assets/5aac3f78-b5d4-4335-b148-02318a136630)
 
+Credit : 
+
 ```
 - SciresM (Atmosphère & DayBreak & Reboot to payload) : https://github.com/Atmosphere-NX/Atmosphere
 - SciresM & FlagBrew (Checkpoint) : https://github.com/FlagBrew/Checkpoint, https://github.com/SciresM/Checkpoint/
