@@ -41,3 +41,23 @@ If you have any problems with the script, the new AtmoPack-Vanilla, don't hesita
 
 The script will be reworked further, but for the Pack it's currently in its final form.
 Likewise, if you have any questions, don't hesitate to come to the [SigHya discord](https://discord.sighya.fr).
+
+![generatepack](https://github.com/user-attachments/assets/5aac3f78-b5d4-4335-b148-02318a136630)
+
+```
+- SciresM (Atmosphère & DayBreak & Reboot to payload) : https://github.com/Atmosphere-NX/Atmosphere
+- SciresM & FlagBrew (Checkpoint) : https://github.com/FlagBrew/Checkpoint, https://github.com/SciresM/Checkpoint/
+- CTCaer (Hekate) : https://github.com/CTCaer/hekate
+- CTCaer & Hexkiz (TX Custom Boot) : https://gist.github.com/CTCaer/13c02c05daec9e674ba00ce5ac35f5be
+- WerWolv (Edizon) : https://github.com/WerWolv/EdiZon
+- Mtheall (ftpd) : https://github.com/mtheall/ftpd
+- J-D-K (JKSV) : https://github.com/J-D-K/JKSV
+- XorTroll (Goldleaf) : https://github.com/XorTroll/Goldleaf
+- Meganukebmp (Switch_90DNS_tester) : https://github.com/meganukebmp/Switch_90DNS_tester
+- PoloNX (PayloadReboot) : https://github.com/PoloNX/PayloadReboot
+- (rashevskyv) DBI : https://github.com/rashevskyv/dbi
+- (iTotalJustice) sys-patch : https://github.com/ITotalJustice/sys-patch
+- (impeeza) sys-patch : https://github.com/ITotalJustice/sys-patch
+- (iTotalJustice) sphaira : https://github.com/ITotalJustice/sphaira
+- Special thanks to SciresM and all the Reswitched team who made this possible ^^
+```
