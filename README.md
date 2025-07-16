@@ -5,16 +5,16 @@ In particular, it allows the AtmoPack-Vanilla to be generated via discord
 
 It contains : 
 ```
-Atmosphere (v1.8.0-prerelease)
-Atmosphere-Fusee (v1.8.0-prerelease)
-Hekate (vv6.2.2)
-90DNSTester (vv1.0.4)
+Atmosphere (v1.9.2)
+Atmosphere-Fusee (v1.9.2)
+Hekate (v6.3.1)
+90DNSTester (v1.0.4)
 DBI (v749ru)
 FTPD (vv3.2.1)
 JKSV (v11/05/2024)
-EdiZon (vv3.1.0)
+EdiZon (v3.1.0)
 Goldleaf (v1.0.0)
-Sys-Patch (vv1.5.5)
+Sys-Patch (v1.5.5)
 Atmosphere-Hekate-Config (v1.0.0)
 ```
 
