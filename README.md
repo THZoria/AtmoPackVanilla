@@ -14,7 +14,7 @@ FTPD (vv3.2.1)
 JKSV (v11/05/2024)
 EdiZon (v3.1.0)
 Goldleaf (v1.0.0)
-Sys-Patch (v1.5.5)
+Sys-Patch (v1.5.6)
 Atmosphere-Hekate-Config (v1.0.0)
 ```
 
