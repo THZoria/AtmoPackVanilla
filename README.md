@@ -5,8 +5,8 @@ In particular, it allows the AtmoPack-Vanilla to be generated via discord
 
 It contains : 
 ```
-Atmosphere (v1.9.2)
-Atmosphere-Fusee (v1.9.2)
+Atmosphere (v1.9.3)
+Atmosphere-Fusee (v1.9.3)
 Hekate (v6.3.1)
 90DNSTester (v1.0.4)
 DBI (v749ru)
