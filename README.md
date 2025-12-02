@@ -5,17 +5,17 @@ In particular, it allows the AtmoPack-Vanilla to be generated via discord
 
 It contains : 
 ```
-Atmosphere (v1.9.4)
-Atmosphere-Fusee (v1.9.4)
-Hekate (v6.3.1)
+Atmosphere (v1.10.0)
+Atmosphere-Fusee (v1.10.0)
+Hekate (v6.4.2)
 90DNSTester (v1.0.4)
-DBI (v749ru)
-FTPD (vv3.2.1)
-JKSV (v11/05/2024)
+DBI (v844ru)
+FTPD (v3.2.1)
+JKSV (v16/11/2025)
 EdiZon (v3.1.0)
-Goldleaf (v1.0.0)
-Sys-Patch (v1.5.6)
-Atmosphere-Hekate-Config (v1.0.0)
+Goldleaf (v1.2.0)
+Sys-Patch (v1.5.8v5)
+Atmosphere-Hekate-Config (v4.0.1)
 ```
 
 We chose to make a new fetcher because the old one had hardcoded data that wasn't clean. This was still the case with certain functions, but all rests are parameterized in a datas.json file, which looks like this exemple :
