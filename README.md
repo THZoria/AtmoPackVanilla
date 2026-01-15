@@ -1,5 +1,9 @@
 Repo of the code containing the new AtmoPack-Fetcher via Node jS
 
+[![Discord](https://img.shields.io/discord/454099185416011776?label=Rejoindre%20le%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.sighya.fr) <br>
+[![Dernière version](https://img.shields.io/github/v/release/THZoria/AtmoPackVanilla?label=Dernière%20Version&color=05c09a&style=for-the-badge)](https://github.com/THZoria/AtmoPackVanilla/releases/latest)
+[![Téléchargements](https://img.shields.io/github/downloads/THZoria/AtmoPackVanilla/total?label=Téléchargements&color=blue&style=for-the-badge)](https://github.com/THZoria/AtmoPackVanilla)
+
 This is still under development, but it works
 In particular, it allows the AtmoPack-Vanilla to be generated via discord
 
