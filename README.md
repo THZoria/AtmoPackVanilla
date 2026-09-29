@@ -9,18 +9,19 @@ In particular, it allows the AtmoPack-Vanilla to be generated via discord
 
 It contains : 
 ```
-Atmosphere (v1.11.1)
-Atmosphere-Fusee (v1.11.1)
-Hekate (v6.5.2)
+Atmosphere (v1.12.0)
+Atmosphere-Fusee (v1.12.0)
+Hekate (v6.5.4)
 90DNSTester (v1.0.4)
-DBI (v895ru)
+DBI (v912ru)
 FTPD (v3.2.1)
 JKSV (v12/02/2025)
 EdiZon (v3.1.0)
-Goldleaf (v1.2.0)
+Goldleaf (v1.2.1)
+Cyberfoil (1.4.6)
 Sys-Patch (v1.6.0)
-Atmosphere-Hekate-Config (v4.0.5)
-Cyberfoil (1.4.4
+AtmoPack-Updaters (v1.0.0)
+Atmosphere-Hekate-Config (v4.0.7)
 ```
 
 We chose to make a new fetcher because the old one had hardcoded data that wasn't clean. This was still the case with certain functions, but all rests are parameterized in a datas.json file, which looks like this exemple :
